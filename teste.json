@@ -9,6 +9,11 @@
         "description": "AND",
        "dc": "OFF"
     },
+     {
+        "mac": "22:44:4D:03:EA:3C",
+        "description": "GGVV",
+       "dc": "ON"
+    },
     {
         "mac": "TRUE",
         "description": "FECHAR GAME TRUE OU FALSE"
