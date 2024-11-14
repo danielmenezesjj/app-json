@@ -2,12 +2,12 @@
      {
         "mac": "00:FF:61:F4:B2:C6",
         "description": "FECHAR GAME TRUE OU FALSE",
-       "dc": "ON"
+       "dc": "OFF"
     },
      {
         "mac": "18:C0:4D:D8:CD:91",
         "description": "MAI-AND",
-        "dc": "ON"
+        "dc": "OFF"
     },
      {
         "mac": "22:44:4D:03:EA:3C",
@@ -17,7 +17,7 @@
      {
         "mac": "18:C0:4D:F2:FC:B4",
         "description": "WWWEL",
-       "dc": "ON"
+       "dc": "OFF"
     }
 ]
 
