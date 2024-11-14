@@ -7,17 +7,17 @@
      {
         "mac": "18:C0:4D:D8:CD:91",
         "description": "MAI-AND",
-       "dc": "OFF"
+       "dc": "ON"
     },
      {
         "mac": "22:44:4D:03:EA:3C",
         "description": "GGVV",
-       "dc": "OFF"
+       "dc": "ON"
     },
      {
         "mac": "18:C0:4D:F2:FC:B4",
         "description": "WWWEL",
-       "dc": "OFF"
+       "dc": "ON"
     }
 ]
 
