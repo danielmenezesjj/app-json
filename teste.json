@@ -20,6 +20,12 @@
        "dc": "OFF"
     },
      {
+        "mac": "3C:7C:3F:7C:3D:BD",
+        "description": "KKVV",
+       "dc": "OFF"
+    },
+     
+     {
         "mac": "18:C0:4D:F2:FC:B4",
         "description": "WWW",
        "dc": "OFF"
