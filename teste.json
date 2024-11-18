@@ -7,7 +7,7 @@
      {
         "mac": "18:C0:4D:D8:CD:91",
         "description": "MAI-AND",
-        "dc": "ON"
+        "dc": "OFF"
     },
      {
         "mac": "22:44:4D:03:EA:3C",
@@ -17,7 +17,7 @@
      {
         "mac": "D8:BB:C1:CF:D5:14",
         "description": "vvee",
-       "dc": "ON"
+       "dc": "OFF"
     },
      {
         "mac": "3C:7C:3F:7C:3D:BD",
