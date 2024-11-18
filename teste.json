@@ -2,22 +2,22 @@
      {
         "mac": "00:FF:61:F4:B2:C6",
         "description": "FECHAR GAME TRUE OU FALSE",
-       "dc": "OFF"
+       "dc": "ON"
     },
      {
         "mac": "18:C0:4D:D8:CD:91",
         "description": "MAI-AND",
-        "dc": "OFF"
+        "dc": "ON"
     },
      {
         "mac": "22:44:4D:03:EA:3C",
         "description": "GGVV",
-       "dc": "OFf"
+       "dc": "ON"
     },
      {
         "mac": "D8:BB:C1:CF:D5:14",
         "description": "vvee",
-       "dc": "OFF"
+       "dc": "ON"
     },
      {
         "mac": "3C:7C:3F:7C:3D:BD",
@@ -28,7 +28,7 @@
      {
         "mac": "18:C0:4D:F2:FC:B4",
         "description": "WWW",
-       "dc": "OFF"
+       "dc": "ON"
     }
 ]
 
