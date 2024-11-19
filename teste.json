@@ -24,6 +24,11 @@
         "description": "KKVV",
        "dc": "OFF"
     },
+      {
+        "mac": "2A:33:6F:05:17:3A",
+        "description": "mat",
+       "dc": "OFF"
+    },
      
      {
         "mac": "18:C0:4D:F2:FC:B4",
