@@ -29,6 +29,11 @@
         "description": "mat",
        "dc": "OFF"
     },
+     {
+        "mac": "00:4E:E3:7F:55:AF",
+        "description": "gef",
+       "dc": "OFF"
+    },
      
      {
         "mac": "18:C0:4D:F2:FC:B4",
