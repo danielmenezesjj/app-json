@@ -1,39 +1,5 @@
 [
-     {
-        "mac": "00:FF:61:F4:B2:C7",
-        "description": "FECHAR GAME TRUE OU FALSE",
-       "dc": "OFF"
-    },
-     {
-        "mac": "10:FF:E0:40:18:12",
-        "description": "ERICK",
-        "dc": "OFF"
-    },
-     {
-        "mac": "22:44:4D:03:EA:3C",
-        "description": "GGVV",
-       "dc": "OFF"
-    },
-     {
-        "mac": "D8:BB:C1:CF:D5:14",
-        "description": "vvee",
-       "dc": "OFF"
-    },
-     {
-        "mac": "3C:7C:3F:7C:3D:BD",
-        "description": "KKVV",
-       "dc": "OFF"
-    },
-      {
-        "mac": "2A:33:6F:05:17:3A",
-        "description": "mat",
-       "dc": "OFF"
-    },
-     {
-        "mac": "00:4E:E3:7F:55:AF",
-        "description": "gef",
-       "dc": "OFF"
-    },
+
      
      {
         "mac": "18:C0:4D:F2:FC:B4",
