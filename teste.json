@@ -5,7 +5,15 @@
         "mac": "18:C0:4D:F2:FC:B4",
         "description": "WWW",
        "dc": "OFF"
+    },
+         {
+        "mac": "10:7C:61:A5:83:BA",
+        "description": "scri-le",
+       "dc": "OFF"
     }
+
+
+     
 ]
 
 
