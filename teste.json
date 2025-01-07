@@ -30,8 +30,16 @@
         "mac": "60:C7:27:11:CA:8B",
         "description": "scri-need",
        "dc": "OFF"
+    },
+     {
+        "mac": "E8:9C:25:3B:26:D8",
+        "description": "scri-need",
+       "dc": "OFF"
     }
 
+
+
+     
   
 
      
