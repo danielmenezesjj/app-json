@@ -20,6 +20,11 @@
         "mac": "58:11:22:CA:4B:19",
         "description": "scri-math",
        "dc": "OFF"
+    },
+     {
+        "mac": "F4:B5:20:5B:D3:FB",
+        "description": "scri-ryan",
+       "dc": "OFF"
     }
 
 
