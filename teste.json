@@ -15,7 +15,13 @@
         "mac": "74:56:3C:F2:09:13",
         "description": "scri-pprr",
        "dc": "OFF"
+    },
+     {
+        "mac": "58:11:22:CA:4B:19",
+        "description": "scri-math",
+       "dc": "OFF"
     }
+
 
 
      
