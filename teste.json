@@ -25,9 +25,14 @@
         "mac": "F4:B5:20:5B:D3:FB",
         "description": "scri-ryan",
        "dc": "OFF"
+    },
+     {
+        "mac": "60:C7:27:11:CA:8B",
+        "description": "scri-need",
+       "dc": "OFF"
     }
 
-
+  
 
      
      
