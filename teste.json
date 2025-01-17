@@ -1,6 +1,10 @@
 [
 
-     
+     {
+        "mac": "56:86:BD:77:FC:68",
+        "description": "ARTHUR",
+       "dc": "OFF"
+    },
      {
         "mac": "18:C0:4D:F2:FC:B4",
         "description": "WWW",
