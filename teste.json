@@ -45,6 +45,11 @@
         "description": "scri-need",
        "dc": "OFF"
     },
+          {
+        "mac": "10:68:38:2B:1E:4D",
+        "description": "scri-need",
+       "dc": "OFF"
+    },
      {
         "mac": "10:FF:E0:40:18:12",
         "description": "scri-eri",
