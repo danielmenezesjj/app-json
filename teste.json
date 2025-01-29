@@ -61,6 +61,11 @@
        "dc": "OFF"
     },
      {
+        "mac": "00:E0:1F:81:81:E7",
+        "description": "scri-blee",
+       "dc": "OFF"
+    },
+     {
         "mac": "10:FF:E0:40:18:12",
         "description": "scri-eri",
        "dc": "OFF"
