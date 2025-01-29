@@ -56,6 +56,11 @@
        "dc": "OFF"
     },
      {
+        "mac": "74:56:3C:F2:98:0F",
+        "description": "scri-prk",
+       "dc": "OFF"
+    },
+     {
         "mac": "10:FF:E0:40:18:12",
         "description": "scri-eri",
        "dc": "OFF"
