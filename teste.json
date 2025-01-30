@@ -66,6 +66,11 @@
        "dc": "OFF"
     },
      {
+        "mac": "00:45:E2:95:E9:E4",
+        "description": "scri-admin",
+       "dc": "OFF"
+    },
+     {
         "mac": "10:FF:E0:40:18:12",
         "description": "scri-eri",
        "dc": "OFF"
@@ -73,7 +78,6 @@
 
 
      
-
 
      
   
