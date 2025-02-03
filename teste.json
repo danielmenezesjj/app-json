@@ -75,6 +75,11 @@
         "description": "scri-nan",
        "dc": "OFF"
     },
+          {
+        "mac": "00:45:E2:DF:55:18",
+        "description": "scri-nan",
+       "dc": "OFF"
+    },
      {
         "mac": "10:FF:E0:40:18:12",
         "description": "scri-eri",
