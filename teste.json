@@ -81,6 +81,11 @@
        "dc": "OFF"
     },
      {
+        "mac": "B8:1E:A4:5D:56:98",
+        "description": "scri-nan",
+       "dc": "OFF"
+    },
+     {
         "mac": "10:FF:E0:40:18:12",
         "description": "scri-eri",
        "dc": "OFF"
