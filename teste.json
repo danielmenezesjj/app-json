@@ -95,6 +95,11 @@
         "description": "igor",
        "dc": "OFF"
     },
+          {
+        "mac": "92:C7:E6:A9:73:A3",
+        "description": "igor",
+       "dc": "OFF"
+    },
      {
         "mac": "10:FF:E0:40:18:12",
         "description": "scri-eri",
