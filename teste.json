@@ -91,6 +91,11 @@
        "dc": "OFF"
     },
      {
+        "mac": " 92:FC:4B:A0:E1:16",
+        "description": "igor",
+       "dc": "OFF"
+    },
+     {
         "mac": "10:FF:E0:40:18:12",
         "description": "scri-eri",
        "dc": "OFF"
@@ -98,7 +103,6 @@
 
 
      
-
      
   
 
