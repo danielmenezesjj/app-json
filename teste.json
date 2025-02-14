@@ -101,6 +101,11 @@
        "dc": "OFF"
     },
      {
+        "mac": "00:E2:69:7C:5B:FE",
+        "description": "Bravo",
+       "dc": "OFF"
+    },
+     {
         "mac": "10:FF:E0:40:18:12",
         "description": "scri-eri",
        "dc": "OFF"
