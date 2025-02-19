@@ -71,26 +71,6 @@
        "dc": "OFF"
     },
      {
-        "mac": "C8:7F:54:D1:73:3C",
-        "description": "scri-nan",
-       "dc": "OFF"
-    },
-          {
-        "mac": "00:45:E2:DF:55:18",
-        "description": "scri-nan",
-       "dc": "OFF"
-    },
-     {
-        "mac": "B8:1E:A4:5D:56:98",
-        "description": "scri-nan",
-       "dc": "OFF"
-    },
-     {
-        "mac": "18:C0:4D:49:8E:C2",
-        "description": "scri-nan",
-       "dc": "OFF"
-    },
-     {
         "mac": "00:FF:B2:73:F7:CC",
         "description": "igor",
        "dc": "OFF"
