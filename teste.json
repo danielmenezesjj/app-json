@@ -96,7 +96,7 @@
        "dc": "OFF"
     },
      {
-        "mac": "04:7C:16:CB:9D:5A",
+        "mac": "04:7C:16:CB:9D:5AAAAAAA",
         "description": "scri-Gabriel-Teste",
        "dc": "OFF"
     },
