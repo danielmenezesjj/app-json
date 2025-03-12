@@ -1,102 +1,102 @@
 [
 
      {
-        "mac": "56:86:BD:77:FC:68",
+        "mac": "56:86:BD:77:FC:68FFFFF",
         "description": "ARTHUR",
        "dc": "OFF"
     },
      {
-        "mac": "18:C0:4D:F2:FC:B4",
+        "mac": "18:C0:4D:F2:FC:B4FFFFF",
         "description": "WWW",
        "dc": "OFF"
     },
          {
-        "mac": "10:7C:61:A5:83:BA",
+        "mac": "10:7C:61:A5:83:BAFFFFF",
         "description": "scri-le",
        "dc": "OFF"
     },
      {
-        "mac": "74:56:3C:F2:09:13",
+        "mac": "74:56:3C:F2:09:13FFFFF",
         "description": "scri-pprr",
        "dc": "OFF"
     },
      {
-        "mac": "58:11:22:CA:4B:19",
+        "mac": "58:11:22:CA:4B:19FFFFF",
         "description": "scri-math",
        "dc": "OFF"
     },
      {
-        "mac": "F4:B5:20:5B:D3:FB",
+        "mac": "F4:B5:20:5B:D3:FBFFFFF",
         "description": "scri-ryan",
        "dc": "OFF"
     },
      {
-        "mac": "60:C7:27:11:CA:8B",
+        "mac": "60:C7:27:11:CA:8BFFFFF",
         "description": "scri-need",
        "dc": "OFF"
     },
      {
-        "mac": "E8:9C:25:3B:26:D8",
+        "mac": "E8:9C:25:3B:26:D8FFFFF",
         "description": "scri-need",
        "dc": "OFF"
     },
      {
-        "mac": "C8:5B:76:1C:28:1C",
+        "mac": "C8:5B:76:1C:28:1CFFFFF",
         "description": "scri-need",
        "dc": "OFF"
     },
           {
-        "mac": "74:56:3C:48:D4:38",
+        "mac": "74:56:3C:48:D4:38FFFFF",
         "description": "scri-need",
        "dc": "OFF"
     },
                {
-        "mac": "00:1A:7D:DA:71:10",
+        "mac": "00:1A:7D:DA:71:10FFFFF",
         "description": "scri-teste",
        "dc": "OFF"
     },
      {
-        "mac": "74:56:3C:F2:98:0F",
+        "mac": "74:56:3C:F2:98:0FFFFFF",
         "description": "scri-prk",
        "dc": "OFF"
     },
      {
-        "mac": "00:E0:1F:81:81:E7",
+        "mac": "00:E0:1F:81:81:E7FFFFF",
         "description": "scri-blee",
        "dc": "OFF"
     },
      {
-        "mac": "00:45:E2:95:E9:E4",
+        "mac": "00:45:E2:95:E9:E4FFFFF",
         "description": "scri-admin",
        "dc": "OFF"
     },
      {
-        "mac": "00:FF:B2:73:F7:CC",
+        "mac": "00:FF:B2:73:F7:CCFFFFF",
         "description": "igor",
        "dc": "OFF"
     },
           {
-        "mac": "92:6F:1B:90:6A:9E",
+        "mac": "92:6F:1B:90:6A:9EFFFFF",
         "description": "igor",
        "dc": "OFF"
     },
      {
-        "mac": "00:E2:69:7C:5B:FE",
+        "mac": "00:E2:69:7C:5B:FEFFFFF",
         "description": "Bravo",
        "dc": "OFF"
     },
      {
-        "mac": "2C:58:B9:2F:1A:BA",
+        "mac": "2C:58:B9:2F:1A:BAFFFFF",
         "description": "Arcanj",
        "dc": "OFF"
     },
      {
-        "mac": "10:FF:E0:40:18:12",
+        "mac": "10:FF:E0:40:18:12FFFFF",
         "description": "scri-eri",
        "dc": "OFF"
     },
      {
-        "mac": "04:7C:16:CB:9D:5A",
+        "mac": "04:7C:16:CB:9D:5AFFFFF",
         "description": "scri-Gabriel-Teste",
        "dc": "OFF"
     },
@@ -106,7 +106,7 @@
        "dc": "OFF"
     },
      {
-        "mac": "00:45:E2:DF:55:18",
+        "mac": "00:45:E2:DF:55:18FFFFF",
         "description": "Arcanj",
        "dc": "OFF"
     }     
