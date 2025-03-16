@@ -101,10 +101,16 @@
        "dc": "OFF"
     },
           {
+        "mac": "18:C0:4D:D8:CD:91",
+        "description": "scri-Gabriel-Teste",
+       "dc": "OFF"
+    },
+          {
         "mac": "E8:9C:25:7A:92:BE",
         "description": "scri-Gabriel-Teste",
        "dc": "OFF"
     },
+     
      {
         "mac": "00:45:E2:DF:55:18FFFFF",
         "description": "Arcanj",
