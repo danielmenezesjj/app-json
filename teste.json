@@ -110,6 +110,11 @@
         "description": "scri-Gabriel-Teste",
        "dc": "OFF"
     },
+           {
+        "mac": "00:45:E2:DF:55:18",
+        "description": "scri-Gabriel-Teste",
+       "dc": "OFF"
+    },
      
      {
         "mac": "00:45:E2:DF:55:18FFFFF",
