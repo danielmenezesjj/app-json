@@ -119,9 +119,15 @@
         "description": "VITOR",
         "dc": "OFF"
     },
+        {
+        "mac": "66:7B:A7:EE:39:17",
+        "description": "IGOR",
+        "dc": "OFF"
+    },
     {
         "mac": "00:45:E2:DF:55:18FFFFF",
         "description": "Arcanj",
         "dc": "OFF"
     }
 ]
+
