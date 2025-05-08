@@ -120,9 +120,9 @@
         "dc": "OFF"
     },
         {
-        "mac": "66:7B:A7:EE:39:17777777",
+        "mac": "66:7B:A7:EE:39:17",
         "description": "IGOR",
-        "dc": "ON"
+        "dc": "OFF"
     },
     {
         "mac": "00:45:E2:DF:55:18FFFFF",
