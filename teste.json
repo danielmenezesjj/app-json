@@ -128,6 +128,11 @@
         "mac": "74:56:3C:B0:14:B3",
         "description": "Luisssszao",
         "dc": "OFF"
+    },
+        {
+        "mac": "74:56:3C:98:5E:18",
+        "description": "teste",
+        "dc": "OFF"
     }
 ]
 
