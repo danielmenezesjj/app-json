@@ -130,7 +130,7 @@
         "dc": "OFF"
     },
         {
-        "mac": "74:56:3C:98:5E:18",
+        "mac": "74:56:3C:98:5E:18FFFFFFFFFF",
         "description": "teste",
         "dc": "OFF"
     }
